@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Venkat Ram 👋</h1>
 
 <p align="center">
-  <b>ML Engineer</b> · Data Science · Python · MLOps
+  <b>ML Engineer</b> · Data Science · Python · MLOps · Generative AI
 </p>
 
 <p align="center">
