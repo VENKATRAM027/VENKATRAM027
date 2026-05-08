@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 
-I'm a self-driven ML Engineer based in **Mumbai**, with a non-traditional background — B.Com → BCA → Machine Learning. That journey taught me how to learn fast, think independently, and build things that work.
+I'm a self-driven ML Engineer based in **BENGALURU**, with a non-traditional background — B.Com → BCA → Machine Learning. That journey taught me how to learn fast, think independently, and build things that work.
 
 I focus on turning data into intelligent, deployable systems — from EDA and model training to containerized production pipelines.
 
