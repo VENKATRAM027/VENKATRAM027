@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Venkat Ram 👋</h1>
+# 👋 Hey, I'm Venkat Ram
 
 <p align="center">
   <b>AI/ML Engineer</b> · Machine Learning · Deep Learning · Generative AI · MLOps
@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkat-ram-106867403">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/VENKATRAM027">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -21,144 +21,136 @@
 
 ## 🧠 About Me
 
-I'm an **AI/ML Engineer** focused on building practical, production-oriented machine learning and Generative AI applications.
+I'm an AI/ML Engineer focused on developing practical machine learning, deep learning, and Generative AI applications.
 
-I work across the complete AI development lifecycle — from **data preprocessing and model experimentation to deployment, APIs, experiment tracking, and RAG-based applications**.
+My work spans the AI development lifecycle, including data preprocessing, model training, evaluation, experiment tracking, REST APIs, and interactive applications.
 
-Currently focused on strengthening my skills across **Machine Learning → Deep Learning → Generative AI → MLOps/LLMOps**.
-
-* 🔭 Building end-to-end ML, DL and GenAI projects
-* 🤖 Working with **Machine Learning, Deep Learning, NLP, Computer Vision and RAG**
-* 🧩 Building production-style pipelines using **MLflow, DVC, Docker, FastAPI and Streamlit**
-* 🌱 Learning **LLM fine-tuning, Hugging Face, Agentic AI and LLMOps**
-* 🎯 Open to **AI/ML Engineer, Machine Learning Engineer, Applied AI and Generative AI internship opportunities**
+- 🔭 Building end-to-end ML, DL, and GenAI projects
+- 🤖 Exploring Machine Learning, Computer Vision, NLP, and Retrieval-Augmented Generation
+- ⚙️ Developing API-driven AI applications with FastAPI and Streamlit
+- 📊 Working with model experimentation and tracking using MLflow
+- 🌱 Expanding my knowledge of advanced RAG, Hugging Face, Agentic AI, and LLMOps
+- 🎯 Open to AI/ML, Machine Learning, Applied AI, and Generative AI internship opportunities
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 Bank Marketing ML Platform
+### 🏭 1. End-to-End Industrial Fault Detection
 
-**End-to-end machine learning pipeline for bank marketing prediction**
+Deep learning computer vision project for industrial defect classification using a custom ResNet-50 architecture.
 
-[Repository](https://github.com/VENKATRAM027/bank-marketing-ml-platform-v1)
+🔗 **[View Repository](https://github.com/VENKATRAM027/End-To-End-Industrial_Fault_Detection-using-Custom-ResNet-50-with-Mlops)**
 
-**Highlights**
+**Key Features**
+- Custom ResNet-50 implementation using TensorFlow/Keras
+- Industrial image classification using the MVTec AD dataset
+- Image preprocessing and data augmentation
+- Model evaluation and performance analysis
+- Experiment tracking with MLflow
+- FastAPI inference backend and Streamlit interface
+- MLOps-oriented project structure
 
-* Complete ML workflow from preprocessing to deployment
-* Compared multiple classification algorithms
-* Hyperparameter tuning with `RandomizedSearchCV`
-* Addressed class imbalance using **SMOTE**
-* Experiment tracking with **MLflow**
-* Model persistence with **Joblib**
-* REST API using **FastAPI**
-* Interactive application using **Streamlit**
+**Tech Stack:** Python · TensorFlow · Keras · Computer Vision · MLflow · FastAPI · Streamlit
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn · XGBoost · SMOTE · MLflow · FastAPI · Streamlit
+### 🏥 2. Medical RAG Chatbot
 
----
+A Retrieval-Augmented Generation application that answers questions using uploaded medical PDF documents.
 
-### 🏥 Medical RAG Chatbot
+🔗 **[View Repository](https://github.com/VENKATRAM027/Medical-RAG-Chatbot)**
 
-**Privacy-focused Retrieval-Augmented Generation application for medical documents**
+**Key Features**
+- Upload medical PDFs and build a searchable knowledge base
+- Semantic retrieval using FAISS
+- Context-grounded question answering
+- Document-based responses to support source-grounded information retrieval
+- Interactive Streamlit interface
+- API key management through environment variables
 
-[Repository](https://github.com/VENKATRAM027/Medical-RAG-Chatbot)
+**Tech Stack:** Python · RAG · LLMs · LangChain · FAISS · Embeddings · Streamlit · PDF Processing
 
-**Highlights**
+*Note: This is an experimental document-question-answering application, not a substitute for professional medical advice.*
 
-* Upload medical PDFs and create a real-time knowledge base
-* Retrieval using **FAISS**
-* Responses grounded in uploaded documents
-* Privacy-focused document workflow
-* Interactive Streamlit interface
-* Secure API key handling with environment variables
+### 🏦 3. Bank Marketing ML Platform
 
-**Stack:** Python · RAG · LLMs · LangChain · FAISS · Streamlit · PDF Processing
+An end-to-end machine learning application for predicting customer responses to bank marketing campaigns.
 
----
+🔗 **[View Repository](https://github.com/VENKATRAM027/bank-marketing-ml-platform-v1)**
 
-### 🏭 Industrial Fault Detection
+**Key Features**
+- End-to-end preprocessing and model training pipeline
+- Multiple classification algorithms and hyperparameter tuning
+- Class imbalance handling using SMOTE
+- Experiment tracking with MLflow
+- Model persistence using Joblib
+- REST API with FastAPI
+- Interactive prediction interface with Streamlit
 
-**Deep learning computer vision system for industrial defect detection**
-
-**Highlights**
-
-* Custom **ResNet-50 architecture built with TensorFlow/Keras**
-* Image classification pipeline for industrial inspection
-* MVTec AD dataset
-* Training and experiment tracking with MLflow
-* Model deployment architecture with FastAPI + Streamlit
-* Designed with an MLOps-oriented workflow
-
-**Stack:** Python · TensorFlow · Keras · Computer Vision · OpenCV · MLflow · FastAPI · Streamlit
+**Tech Stack:** Python · Pandas · NumPy · Scikit-learn · XGBoost · SMOTE · MLflow · FastAPI · Streamlit
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Data
+### Programming & Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### Machine Learning & Deep Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Generative AI
+### Generative AI & NLP
 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Areas:**
-RAG · Vector Search · Embeddings · LLM Applications · Prompt Engineering · NLP · Agentic AI
+**Areas:** RAG · Embeddings · Vector Search · LLM Applications · Prompt Engineering · NLP · Agentic AI
 
-### MLOps & Deployment
+### MLOps & Application Development
 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square\&logo=mlflow\&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square\&logo=dvc\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 
-**Focus:**
-ML Pipelines · Experiment Tracking · Data Versioning · Model Deployment · REST APIs · Containerization
+**Focus Areas:** ML Pipelines · Experiment Tracking · Model Evaluation · REST APIs · Model Deployment · Reproducibility
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced **RAG architectures**
-* Hybrid and multimodal RAG
-* **LLM fine-tuning with Hugging Face**
-* Agentic AI and multi-agent systems
-* MLOps and **LLMOps**
-* CI/CD for machine learning applications
-* Production deployment of AI systems
+- Advanced and hybrid RAG architectures
+- Multimodal RAG
+- LLM fine-tuning with Hugging Face
+- Agentic AI and multi-agent systems
+- MLOps and LLMOps
+- CI/CD for machine learning applications
 
 ---
 
-## 🎯 What I'm Interested In
+## 🎯 Areas of Interest
 
-**AI/ML Engineer**
-**Machine Learning Engineer**
-**Applied AI Engineer**
-**Generative AI Engineer**
-**Computer Vision / NLP Engineer**
-**MLOps / LLMOps**
+- AI/ML Engineering
+- Machine Learning and Deep Learning
+- Generative AI and RAG
+- Computer Vision and NLP
+- MLOps and LLMOps
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VENKATRAM027&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VENKATRAM027&show_icons=true&theme=default&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VENKATRAM027&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
 
@@ -166,7 +158,7 @@ ML Pipelines · Experiment Tracking · Data Versioning · Model Deployment · RE
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on **machine learning, Generative AI, RAG, computer vision and production AI projects**.
+I'm interested in collaborating on machine learning, deep learning, Generative AI, RAG, computer vision, and production-oriented AI projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkat-ram-106867403">
@@ -180,4 +172,3 @@ I'm interested in collaborating on **machine learning, Generative AI, RAG, compu
 <p align="center">
   <i>Building AI systems one project at a time 🚀</i>
 </p>
-
